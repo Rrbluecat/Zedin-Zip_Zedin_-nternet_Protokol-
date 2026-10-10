@@ -1,0 +1,14 @@
+# Derlenmis programlar
+zip_server
+zip_client
+*.o
+güvenlik/kx_test
+güvenlik/kx_test_phase1
+güvenlik/test_crypto
+test_zip_security
+test_zip_security_stage7_2
+
+# Yedek dosyalar
+*.bak
+*.yedek
+*-yedek
